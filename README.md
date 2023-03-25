@@ -1,1 +1,1 @@
-# InterPe-Calculator
+# InternPe-Calculator
